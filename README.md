@@ -16,5 +16,4 @@ If you have lost your BOOT.ini file, you'll get the blue screen. If you see the 
 
 Note:
 ----
-Please placed all the files that not named "WinDOS3.bat" in a folder called SYS (The system won't work well if you don't do that) and placed the "WinDOS3.bat" outside. Please change all the files direction like "D:\LTD\Windows Batch Project\WinDOS3" to your directions, or ot won't work well on you computer.
-
+You can modify or forked this program but don't say it's your "hardwork". This is a non-commercial software

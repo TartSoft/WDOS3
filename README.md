@@ -16,4 +16,10 @@ If you have lost your BOOT.ini file, you'll get the blue screen. If you see the 
 
 Note:
 ----
-You can modify or forked this program but don't say it's your "hardwork". This is a non-commercial software
+You can modify or forked this program but don't say it's your "hardwork"
+
+
+
+
+
+

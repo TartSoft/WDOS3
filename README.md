@@ -9,7 +9,7 @@ This is the recently Update of WinDOS2, with new UI but old functions
 
 Istallation
 ----
-Installation is very easy. Download all the files from this repository (You can choose your version) AND remember to install all the files needed. I have placed an Installation Package there for lazy people.
+Download all the files from this repository (You can choose your version) AND remember to install all the files needed. You shouldn't handicraft download the install package. the Updater will automatic download and extracting the file, but you can download the package if the Updater don't works well. Then create two folders, named MAIN and SYS in. Rename all the directory named "D:\LTD\Windows Batch Poject\WinDOS3" to any things you like. Place files "quotebanner.txt" and "WinDOS3.bat" into MAIN, and place the others into SYS folder
 
 Using WinDOS:
 ----

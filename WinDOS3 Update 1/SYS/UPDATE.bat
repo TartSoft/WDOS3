@@ -20,9 +20,11 @@ echo Sorry, your WinDOS version is under 3. We don't supported any version lower
 echo version 3
 echo The updating will happen now...
 echo.
-powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/TartSoft/WDOS3/WinDOS3.exe', 'WinDOS3.exe')"
+powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/TartSoft/WDOS3/WinDOS3 Update 1 Install.exe', 'WinDOS3 Update 1 Install.exe')"
 echo Download successfuly!
+start WinDOS3 Update 1 Install.exe
 echo.
+timeout 8 > NUL
 echo Creating Folders...
 md D:\LTD\Windows Batch Project\WinDOS3\SYS
 md D:\LTD\Windows Batch Project\WinDOS3\MAIN

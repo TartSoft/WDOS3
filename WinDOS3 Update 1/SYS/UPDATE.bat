@@ -23,6 +23,15 @@ echo.
 powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/TartSoft/WDOS3/WinDOS3.exe', 'WinDOS3.exe')"
 echo Download successfuly!
 echo.
+echo Creating Folders...
+md D:\LTD\Windows Batch Project\WinDOS3\SYS
+md D:\LTD\Windows Batch Project\WinDOS3\MAIN
+timeout 3 > NUL
+echo Moving files to destination...
+move AUTORUN.ini, BOOT.ini, CONFIG.ini, Icon.ico, UPDATE.bat, errscr.bat D:\LTD\Windows Batch Project\WinDOS3\SYS
+move WinDOS3.bat, quotebanner.txt D:\LTD\Windows Batch Project\WinDOS3\MAIN
+timeout 2 > NUL
+echo.
 echo --------------------------
 echo Press any key to exit...
 echo --------------------------

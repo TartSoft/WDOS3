@@ -1,5 +1,6 @@
-# WinDOS3
+
      
+![WinDOSlogo](https://user-images.githubusercontent.com/92847004/143155049-be24b7ae-7464-4093-9215-fc39d51c8360.png)
 
 
 Description:

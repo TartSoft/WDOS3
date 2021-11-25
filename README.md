@@ -5,7 +5,7 @@
 
 Description:
 ----
-This is the recently Update of WinDOS2, with new UI but old functions
+This is the recently Update of WinDOS2, with new UI but still WinDOS2 functions
 
 Istallation
 ----

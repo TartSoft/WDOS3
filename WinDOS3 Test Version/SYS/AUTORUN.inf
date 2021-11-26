@@ -1,0 +1,4 @@
+[autorun]
+open=WinDOS3.bat
+icon=Icon.ico
+label=Install and Start WinDOS3 used CD or USB

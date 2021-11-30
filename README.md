@@ -9,7 +9,7 @@ Description:
 This is the recently Update of WinDOS2
 
 Please read the license HERE:
-https://github.com/TartSoft/WDOS3/blob/main/LICENSE
+https://github.com/TartSoft/WDOS3/blob/main/LICENSE.md
 
 
 README:

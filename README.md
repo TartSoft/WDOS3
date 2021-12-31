@@ -26,7 +26,7 @@ Progress:
 
 - Update 2: Maybe run the most properly but cut BSoD and Updater
 
-- Update 3: Add Snake Xenzia, Shutdown, and new UI
+- Update 3: Add Snake Xenzia, Shutdown, and new UI, run properly
 
 
 

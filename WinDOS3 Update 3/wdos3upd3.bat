@@ -15,6 +15,9 @@
 color 02
 title WinDOS3
 rem ASCII arts :)
+rem I need to add "^" characters here before "|" to 
+rem run the art. You can find more at:
+rem https://stackoverflow.com/questions/11356787/how-can-i-insert-this-ascii-text-art-in-cmd-or-command-prompt/11434695#11434695
 echo -----------------------------------------------
 echo  _    _ _      ______ _____ _____ 
 echo ^| ^|  ^| (_)     ^|  _  \  _  /  ___^|

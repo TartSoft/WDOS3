@@ -1,7 +1,12 @@
-:: Build with thanks for Dave Benham and Steven Icet for there amazing games in this OS
+:: Build with thanks for Dave Benham and Steven Icet for there amazing games in this OS. 
+:: You can find there games at:
+:: Dave: https://www.dostips.com/ 
+:: Steven: https://computerhacker332.weebly.com/batch-files-bat.html
+::
 :: WinDOS3 Update 3
 :: Contributed by TartSoft (duongletrieu)
 :: Made In Hanoi, VN
+::
 :: This Program is under GNU General Public License. To see
 :: the license go to this link:
 :: https://github.com/TartSoft/WDOS3/blob/main/LICENSE.md
@@ -9,6 +14,7 @@
 @echo off
 color 02
 title WinDOS3
+rem ASCII arts :)
 echo -----------------------------------------------
 echo  _    _ _      ______ _____ _____ 
 echo ^| ^|  ^| (_)     ^|  _  \  _  /  ___^|
@@ -23,6 +29,7 @@ timeout 4 > NUL
 cls
 echo Booting up WinDOS3...
 timeout 2 > NUL
+rem Check for the existence of BOOT file
 echo Checking files...
 If exist "D:\LTD\Windows Batch Project\WinDOS3 Update 3\SYS\BOOT.boot" (
     msg * Files existed...
@@ -44,6 +51,7 @@ msg * Your password is not correct. Please try again
 goto login
 :mainscr
 cls
+rem Enable chcp for the graphic
 chcp 65001 > NUL
 echo ----------------------------------------------
 echo  _    _ _      ______ _____ _____ 
@@ -96,6 +104,7 @@ CLS
 ECHO WinDOS Calculator
 :TOP
 color 3f
+rem WDOS3 Calculator
 Cls
 ECHO ----------------------------------------------------
 ECHO[

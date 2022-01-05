@@ -26,7 +26,13 @@ Progress:
 
 - Update 2: Maybe run the most properly but cut BSoD and Updater
 
-- Update 3: Add Snake Xenzia, Shutdown, and new UI, run properly
+- Update 3: Add Snake Xenzia, Shutdown, and new UI, run properly (add self-delete function on 05/01/2023)
+
+
+
+
+
+WinDOS 4: Coding
 
 
 

@@ -15,14 +15,14 @@ https://github.com/TartSoft/WDOS3/blob/main/LICENSE.md
 README:
 https://github.com/TartSoft/WDOS3/blob/main/README.md
 
-Progress:
+Progress Log:
 ----
 
-- First Version (WinDOS3) : New UI but mostly the same with WinDOS2, dead
+- First Version (WinDOS3) : New UI but mostly the same with WinDOS2, (dead)
 
-- Update 1 : Use old UIs from WinDOS3, but started to think about ASCII arts, dead
+- Update 1 : Use old UIs from WinDOS3, but started to think about ASCII arts, (dead)
 
-- Test Version : Started to use ASCII art but have automatically shutdown bug
+- Test Version : Started to use ASCII art but have automatically shutdown bug, (dead)
 
 - Update 2: Maybe run the most properly but cut BSoD and Updater
 

